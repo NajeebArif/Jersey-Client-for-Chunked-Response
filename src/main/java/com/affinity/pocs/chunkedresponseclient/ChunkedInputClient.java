@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package oal.oracle.apps.chunkedresponseclient;
+package com.affinity.pocs.chunkedresponseclient;
 
 import java.io.File;
 import java.io.FileOutputStream;
